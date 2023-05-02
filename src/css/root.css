@@ -1,0 +1,24 @@
+@import './icon.css';
+
+@font-face {
+    font-family: 'Plex-Mono';
+    src: url('../font/IBMPlexMono-Regular.ttf');
+}
+
+
+:root {
+    --color-1: #283B48;
+    --color-2: #3C4E5A;
+    --color-3: #0EE5C1;
+    --color-4: #19303d;
+    --color-5: #122734;
+    --color-6: #c6ffe0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
